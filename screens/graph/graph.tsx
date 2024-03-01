@@ -32,7 +32,7 @@ const Graph = () => {
           style={{
             backgroundColor: 'blue',
           }}>
-            <Text>HIIIIIIIII</Text>
+            <Text>Hi</Text>
         </View>
       </ScrollView>
     </SafeAreaView>

@@ -10,7 +10,6 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import { NavigationContainer } from '@react-navigation/native';
 import {
   Colors,
   DebugInstructions,
